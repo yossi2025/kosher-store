@@ -3,12 +3,12 @@
     "version_code": 75,
     "version_name": "4.8.3-beta",
     "changelog": "• גרסת בטא ראשונית לחנות האפליקציות הכשרה Kosher Store Beta!",
-    "apk_url": "https://github.com/yossi2025/kosher-store/raw/main/kosher-store-beta.apk"
+    "apk_url": "https://github.com/yossi2025/kosher-store/releases/download/v1.0.0-beta/kosher-store-beta.apk"
   },
   "default": {
     "version_code": 75,
     "version_name": "4.8.3-beta",
     "changelog": "• גרסת בטא ראשונית לחנות האפליקציות הכשרה Kosher Store Beta!",
-    "apk_url": "https://github.com/yossi2025/kosher-store/raw/main/kosher-store-beta.apk"
+    "apk_url": "https://github.com/yossi2025/kosher-store/releases/download/v1.0.0-beta/kosher-store-beta.apk"
   }
 }
