@@ -82,7 +82,7 @@
     { "name": "טובה וברכה",            "package": "com.cardcol.tova.ubracha",             "category": "Judaism" },
     { "name": "לוח עברי",              "package": "com.customsolutions.android.luach",    "category": "Judaism" },
     { "name": "לוח שנה עברי",          "package": "net.shalomz.hebrewcalendar",           "category": "Judaism" },
-    { "name": "תפילולרי",              "package": "com.tfilulari",                        "category": "Judaism" },
+    { "name": "תפילולרי",              "package": "info.jewishprograms.Tfilulari",                        "category": "Judaism" },
     { "name": "כלילת יופי אשכנז",      "package": "com.klilatyofi.ashkenaz",              "category": "Judaism" },
     { "name": "כלילת יופי ספרד",       "package": "com.klilatyofi.sefard",                "category": "Judaism" },
     { "name": "תהילים",                "package": "com.tehilim",                          "category": "Judaism" },
