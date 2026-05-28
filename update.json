@@ -1,14 +1,14 @@
 {
   "com.aurora.store": {
-    "version_code": 100,
-    "version_name": "1.0.0-beta",
-    "changelog": "• שילוב מנגנון עדכון עצמי חלק מ-GitHub\n• מנוע חיפוש מקומי מוקשח וחסין שגיאות כתיב\n• המלצות אפליקציות חכמות לפי קטגוריות מתחת לחיפוש\n• שיפורי יציבות ואבטחה נוספים",
+    "version_code": 75,
+    "version_name": "4.8.3-beta",
+    "changelog": "• גרסת בטא ראשונית לחנות האפליקציות הכשרה Kosher Store Beta!",
     "apk_url": "https://github.com/yossi2025/kosher-store/raw/main/kosher-store-beta.apk"
   },
   "default": {
-    "version_code": 100,
-    "version_name": "1.0.0-beta",
-    "changelog": "• עדכון גרסה כללי לחנות האפליקציות הכשרה",
+    "version_code": 75,
+    "version_name": "4.8.3-beta",
+    "changelog": "• גרסת בטא ראשונית לחנות האפליקציות הכשרה Kosher Store Beta!",
     "apk_url": "https://github.com/yossi2025/kosher-store/raw/main/kosher-store-beta.apk"
   }
 }
